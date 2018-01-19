@@ -53,7 +53,7 @@ tmux setw -g window-status-current-fg $bg1
 
 # pane border
 tmux set -g pane-active-border-fg $orange
-tmux set -g pane-border-fg $bg
+tmux set -g pane-border-fg $bg4
 
 # message infos
 tmux set -g message-bg $bg2
